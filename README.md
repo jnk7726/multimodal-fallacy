@@ -5,7 +5,7 @@ MMUSED Fallacy 2024 Data Splits from Link: [Download](https://drive.google.com/d
 
 Tasks: 
 - Argumentative Fallacy Detection (AFD)
-- Argumentative Fallacy Classification
+- Argumentative Fallacy Classification (AFC)
 
 
 Acknowledgement

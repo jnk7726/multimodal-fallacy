@@ -1,4 +1,4 @@
-# Joint Mid-Fusion Attention Mechanism for Multimodal Argumentative Fallacy Reasoning with Reduced Biases and Improved Interpretability
+# Joint Mid-Fusion Attention Mechanism for Multimodal Argumentative Fallacy Reasoning with Reduced Biases
 
 MMUSED Fallacy 2024 Data Splits from Link: [Download](https://drive.google.com/drive/folders/1uY35jfiKZnsCAvJppCe7NMJnIssjWG2k?usp=sharing)
 

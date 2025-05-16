@@ -10,4 +10,4 @@ Tasks:
 
 Acknowledgement
 
-We thank the [MMUsed Fallacy Task](https://nlp-unibo.github.io/mm-argfallacy/2025/) Organizers for developing MAMKit: Multimodal Argument Mining Toolkit and providing an easy to extend interface with PyTorch for Fallacy Dataset Collators and Baseline Benchmarks.
+We thank the [MMUsed Fallacy Task](https://nlp-unibo.github.io/mm-argfallacy/2025/) Organizers for developing [MAMKit](https://nlp-unibo.github.io/mamkit/): Multimodal Argument Mining Toolkit and providing an easy to extend interface with PyTorch for Fallacy Dataset Collators and Baseline Benchmarks.

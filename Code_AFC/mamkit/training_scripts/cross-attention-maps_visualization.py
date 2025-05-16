@@ -18,7 +18,7 @@ from mamkit.models.text_audio import MulTA_VISUAL
 from mamkit.utility.callbacks import PycharmProgressBar
 from mamkit.utility.model import MAMKitLightingModel
 
-# before running visuals script, comment out line 67-97 or (98-160 + 37-38, 182-214) in /scratch/jnk7726/bdml/project_files/mamkit/mamkit/utility/model.py
+# before running visuals script, comment out line 67-97 or (98-160 + 37-38, 182-214) in /mamkit/utility/model.py
 
 if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO)

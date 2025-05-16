@@ -15,3 +15,5 @@ Note: Significant breaking modifications have been made to the original MAMKit s
 Acknowledgement
 
 We thank the [MMUsed Fallacy Task](https://nlp-unibo.github.io/mm-argfallacy/2025/) Organizers for developing [MAMKit](https://nlp-unibo.github.io/mamkit/): Multimodal Argument Mining Toolkit and providing an easy to extend interface with PyTorch for Fallacy Dataset Collators and Baseline Benchmarks.
+
+Eleonora Mancini, Federico Ruggeri, Stefano Colamonaco, Andrea Zecca, Samuele Marro, and Paolo Torroni. 2024. MAMKit: A Comprehensive Multimodal Argument Mining Toolkit. In Proceedings of the 11th Workshop on Argument Mining (ArgMining 2024), pages 69–82, Bangkok, Thailand. Association for Computational Linguistics.

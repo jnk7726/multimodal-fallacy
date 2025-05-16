@@ -10,7 +10,7 @@ Tasks:
 
 Note: 
 
-Significant modifications have been made to the original MAMKit source code and data splits, dataset zenodo links and data collators in response to persistent update issues encountered within the framework during March and April 2025. To ensure reproducibility and stability, users are advised to avoid relying on the latest upstream updates and instead utilize the locally adapted source files provided here. These files not only address compatibility concerns but also include additional implementations for the proposed joint attention architecture, cross-modal attention visualization, and dataset bias analysis modules.
+Significant modifications have been made to the original MAMKit source code, data splits used, dataset zenodo links and data collators in response to persistent update issues encountered within the framework during March and April 2025. To ensure reproducibility and stability, users are advised to avoid relying on the latest upstream updates and instead utilize the locally adapted source files provided here. These files not only address compatibility concerns but also include additional implementations for the proposed joint attention architecture, cross-modal attention visualization, and dataset bias analysis modules. The original baseline benchmark files are also included for reference and comparison.
 
 Acknowledgement
 

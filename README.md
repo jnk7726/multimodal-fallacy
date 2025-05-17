@@ -7,6 +7,11 @@ Tasks:
 - Argumentative Fallacy Detection (AFD)
 - Argumentative Fallacy Classification (AFC)
 
+#### Joint Mid-Fusion Attention
+
+![image](https://github.com/user-attachments/assets/6e115ee7-218b-4d46-b1f5-993d7e84377b)
+
+
 #### Example Data Bias Graphs:
 ![AFD_FREQUENT](https://github.com/user-attachments/assets/7c1016cd-0690-4784-8bea-063ae7d6fbf2)
 ![AFD_LABELS](https://github.com/user-attachments/assets/4bab1fcb-e5bd-41bf-adda-4d4b87b4bb20)
